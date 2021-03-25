@@ -1,0 +1,1 @@
+df --output=avail . | tr -d '[:alpha:]' | tr -d '[:blank:]' | tr -d '[:cntrl:]'

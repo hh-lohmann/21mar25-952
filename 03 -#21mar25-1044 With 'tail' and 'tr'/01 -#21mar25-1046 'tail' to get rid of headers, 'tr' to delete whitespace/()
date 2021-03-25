@@ -1,0 +1,6 @@
+---
+Type: Node
+Order: 01
+ID: 21mar25-1046
+Title: 'tail' to get rid of headers, 'tr' to delete whitespace
+---

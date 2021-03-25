@@ -1,0 +1,6 @@
+---
+Type: Node
+Order: 01
+ID: 21mar25-1126
+Title: 'sed' to get rid of non-numbers, 'tr' to delete whitespace
+---
